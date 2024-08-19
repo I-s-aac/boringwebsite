@@ -1,0 +1,19 @@
+body{
+<<<<<<< HEAD
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+=======
+    color: blue;
+>>>>>>> 4ff34f0d96f3c66c106a7388a74c7f83280b5c08
+}
